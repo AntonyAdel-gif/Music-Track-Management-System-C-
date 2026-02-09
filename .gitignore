@@ -1,0 +1,13 @@
+# CLion and CMake ignore rules
+.idea/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+Testing/
+Makefile
+install_manifest.txt
+compile_commands.json
+*.o
+*.obj
+*.out
