@@ -1,5 +1,4 @@
-// Antony Adel 20246023
-// Philopateer Bassem 20245042
+
 
 #ifndef MUSICTRACK_H
 #define MUSICTRACK_H
