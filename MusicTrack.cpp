@@ -1,5 +1,3 @@
-// Antony Adel 20246023
-// Philopateer Bassem 20245042
 #include<iostream>
 #include"MusicTrack.h"
 #include"song.h"
